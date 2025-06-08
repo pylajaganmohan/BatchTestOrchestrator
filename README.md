@@ -1,4 +1,4 @@
-# BatchTestOrchestrator – Dynamic Test Execution Framework 🚀  
+# BatchTestOrchestrator – Dynamic Test Execution Framework  
 
 ## 🔹 Overview  
 BatchTestOrchestrator is a **scalable, Excel-driven test execution framework** designed for **automated testing workflows**. It allows testers to **control test execution dynamically** via an **Excel sheet**, eliminating manual intervention while ensuring seamless **batch file automation**.
