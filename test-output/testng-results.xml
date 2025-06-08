@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-02T22:32:37 IST" name="Suite" finished-at="2025-06-02T22:32:37 IST" duration-ms="145">
+    <groups>
+    </groups>
+    <test started-at="2025-06-02T22:32:37 IST" name="Test" finished-at="2025-06-02T22:32:37 IST" duration-ms="145">
+      <class name="testFiles.Test1">
+        <test-method is-config="true" signature="beforeSuiteMethod()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="beforeSuiteMethod" finished-at="2025-06-02T22:32:37 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteMethod -->
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="beforeTestMethod" finished-at="2025-06-02T22:32:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method is-config="true" signature="beforeClassMethod()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="beforeClassMethod" finished-at="2025-06-02T22:32:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassMethod -->
+        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="beforeMethodTest" finished-at="2025-06-02T22:32:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method signature="testMethod1()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="testMethod1" finished-at="2025-06-02T22:32:37 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method is-config="true" signature="afterMethodTest()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="afterMethodTest" finished-at="2025-06-02T22:32:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTest -->
+        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="beforeMethodTest" finished-at="2025-06-02T22:32:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method signature="testMethod2()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="testMethod2" finished-at="2025-06-02T22:32:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method is-config="true" signature="afterMethodTest()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="afterMethodTest" finished-at="2025-06-02T22:32:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTest -->
+        <test-method signature="testMethod3()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="testMethod3" finished-at="2025-06-02T22:32:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method is-config="true" signature="beforeMethodTest()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="beforeMethodTest" finished-at="2025-06-02T22:32:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method is-config="true" signature="afterMethodTest()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="afterMethodTest" finished-at="2025-06-02T22:32:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodTest -->
+        <test-method is-config="true" signature="afterClassMethod()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="afterClassMethod" finished-at="2025-06-02T22:32:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassMethod -->
+        <test-method is-config="true" signature="afterTestMethod()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="afterTestMethod" finished-at="2025-06-02T22:32:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method is-config="true" signature="afterSuiteMethod()[pri:0, instance:testFiles.Test1@3d285d7e]" started-at="2025-06-02T22:32:37 IST" name="afterSuiteMethod" finished-at="2025-06-02T22:32:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteMethod -->
+      </class> <!-- testFiles.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
